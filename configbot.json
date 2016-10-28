@@ -1,7 +1,13 @@
 [
     {
     "ID":"HOME",
-    "Text":"Benvenuto nel Menu di NewsletterFB\nPrenota su http://body-mind.city/"
+    "Text":"Benvenuto nel Menu di NewsletterFB\nPrenota su http://body-mind.city/",
+    "Button": [
+      {
+        "Text": "Tasto START",
+        "ID": "START"
+      }
+    ]
     },
     {
     "ID":"START",
