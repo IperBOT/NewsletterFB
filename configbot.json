@@ -2,5 +2,10 @@
     {
     "ID":"HOME",
     "Text":"Benvenuto nel Menu di NewsletterFB\nPrenota su http://body-mind.city/"
+    },
+    {
+    "ID":"START",
+    "Text":"Risposta al tasto Inizio"
     }
+
 ]
